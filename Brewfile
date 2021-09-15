@@ -10,4 +10,4 @@ brew "hub"
 
 # cask
 cask "postman"
-cask "figma"
+cask "figma"s
