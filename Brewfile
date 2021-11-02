@@ -5,10 +5,11 @@ tap "homebrew/cask"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 
-# brew
-brew "hub"
+# brew / install commands
+brew "hub" # for github
+brew "jq"  # for Json operation
 
-# cask
+# cask / install app
 cask "postman"
 cask "figma"
 cask "hazel"
