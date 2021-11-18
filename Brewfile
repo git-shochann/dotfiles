@@ -5,13 +5,17 @@ tap "homebrew/cask"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 
-# brew / install commands
-brew "hub" # for github
-brew "jq"  # for Json operation
+# globalでインストールする
+### Formulae
+brew "n" # Managing node versions
+brew "node" # Node.js
+brew "yarn" # 
+brew "hub" # GitHub 3rd party cli
+brew "jq"  # JSON arrangement
+brew "flutter" # Install flutter
 
-# cask / install app
+### casks
 cask "postman"
-cask "figma"
 cask "hazel"
 cask "slack"
 cask "iterm2"
@@ -21,5 +25,8 @@ cask "tableplus"
 cask "notion"
 cask "google-chrome"
 cask "gyazo"
-cask "microsoft-remote-desktop"
 cask "github"
+cask "clipy"
+cask "alfred"
+cask "karabiner-elements"
+cask "docker"
