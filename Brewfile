@@ -13,6 +13,7 @@ brew "yarn" #
 brew "hub" # GitHub 3rd party cli
 brew "jq"  # JSON arrangement
 brew "flutter" # Install flutter
+brew "mas"
 
 ### casks
 cask "postman"
@@ -30,3 +31,6 @@ cask "clipy"
 cask "alfred"
 cask "karabiner-elements"
 cask "docker"
+cask "cocoapods"
+# 以下不要
+cask "android-studio"
