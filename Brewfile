@@ -9,11 +9,13 @@ tap "homebrew/core"
 ### Formulae
 brew "n" # Managing node versions
 brew "node" # Node.js
-brew "yarn" # 
+brew "yarn" # Node.js package manager
 brew "hub" # GitHub 3rd party cli
 brew "jq"  # JSON arrangement
-brew "flutter" # Install flutter
-brew "mas"
+brew "flutter" # Flutter
+
+# https://github.com/mas-cli/mas
+brew "mas" # Mac App Store
 
 ### casks
 cask "postman"
@@ -32,5 +34,4 @@ cask "alfred"
 cask "karabiner-elements"
 cask "docker"
 cask "cocoapods"
-# 以下不要
 cask "android-studio"
