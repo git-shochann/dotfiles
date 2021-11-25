@@ -35,3 +35,5 @@ cask "karabiner-elements"
 cask "docker"
 cask "cocoapods"
 cask "android-studio"
+
+mas "Xcode", id: 497799835
