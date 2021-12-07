@@ -36,4 +36,5 @@ cask "docker"
 cask "cocoapods"
 cask "android-studio"
 
-mas "Xcode", id: 497799835
+mas "xcode", id: 497799835
+mas "line", id: 539883307
