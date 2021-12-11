@@ -5,19 +5,19 @@ tap "homebrew/cask"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 
-# globalでインストールする
-### Formulae
-brew "n" # Managing node versions
-brew "node" # Node.js
-brew "yarn" # Node.js package manager
-brew "hub" # GitHub 3rd party cli
-brew "jq"  # JSON arrangement
-brew "flutter" # Flutter
 
-# https://github.com/mas-cli/mas
-brew "mas" # Mac App Store
+echo 'install formulae!'
 
-### casks
+brew "n" # managing node versions
+brew "node" # node.js
+brew "yarn" # node.js package manager
+brew "hub" # github 3rd party cli
+brew "jq"  # json arrangement
+brew "flutter" # flutter
+brew "mas" # get from app store
+
+echo 'install casks!'
+
 cask "postman"
 cask "hazel"
 cask "slack"
@@ -35,6 +35,8 @@ cask "karabiner-elements"
 cask "docker"
 cask "cocoapods"
 cask "android-studio"
+
+echo 'install app from app store'
 
 mas "xcode", id: 497799835
 mas "line", id: 539883307
