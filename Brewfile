@@ -15,7 +15,6 @@ brew "hub" # github 3rd party cli
 brew "jq"  # json arrangement
 brew "flutter" # flutter
 brew "mas" # get from app store
-brew "goenv"
 
 echo "install casks!"
 
