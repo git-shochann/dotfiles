@@ -1,1 +1,1 @@
-This is my MacBook setup.
+My MacBookPro14 Setup 🤯

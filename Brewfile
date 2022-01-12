@@ -37,6 +37,7 @@ cask "docker"
 cask "cocoapods"
 cask "android-studio"
 cask "kindle"
+case "shiftit"
 
 echo "install app from app store"
 
