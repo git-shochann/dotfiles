@@ -36,8 +36,7 @@ cask "karabiner-elements"
 cask "docker"
 cask "cocoapods"
 cask "android-studio"
-cask "kindle"
-case "shiftit"
+cask "discord"
 
 echo "install app from app store"
 
