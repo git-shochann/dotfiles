@@ -38,6 +38,9 @@ cask "cocoapods"
 cask "android-studio"
 cask "discord"
 
+# logicool options
+
+
 echo "install app from app store"
 
 mas "xcode", id: 497799835
