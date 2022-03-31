@@ -37,6 +37,7 @@ cask "docker"
 cask "cocoapods"
 cask "android-studio"
 cask "discord"
+cask "telegram"
 
 # logicool options
 
