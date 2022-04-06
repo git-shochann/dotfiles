@@ -38,6 +38,7 @@ cask "cocoapods"
 cask "android-studio"
 cask "discord"
 cask "telegram"
+cask "google-drive"
 
 # logicool options
 
