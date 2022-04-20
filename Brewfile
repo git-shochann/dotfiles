@@ -39,6 +39,7 @@ cask "android-studio"
 cask "discord"
 cask "telegram"
 cask "google-drive"
+cask "microsoft-remote-desktop"
 
 # logicool options
 
