@@ -5,19 +5,19 @@ tap "homebrew/cask"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 
+echo "install formulae"
 
-echo "install formulae!"
+brew "n"
+brew "node"
+brew "yarn"
+brew "hub"
+brew "jq"
+brew "flutter"
+brew "mas"
+brew "go"
+brew "awscli"
 
-brew "n" # managing node versions
-brew "node" # node.js
-brew "yarn" # node.js package manager
-brew "hub" # github 3rd party cli
-brew "jq"  # json arrangement
-brew "flutter" # flutter
-brew "mas" # get from app store
-brew "go" # install go
-
-echo "install casks!"
+echo "install casks"
 
 cask "postman"
 cask "hazel"
@@ -40,9 +40,6 @@ cask "discord"
 cask "telegram"
 cask "google-drive"
 cask "microsoft-remote-desktop"
-
-# logicool options
-
 
 echo "install app from app store"
 
