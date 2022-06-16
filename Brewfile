@@ -16,6 +16,8 @@ brew "flutter"
 brew "mas"
 brew "go"
 brew "awscli"
+brew "protobuf"
+brew "tree"
 
 echo "install casks"
 
