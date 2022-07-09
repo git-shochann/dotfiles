@@ -18,6 +18,9 @@ brew "go"
 brew "awscli"
 brew "protobuf"
 brew "tree"
+brew "screen"
+brew "tmux"
+brew "neovim"
 
 echo "install casks"
 
