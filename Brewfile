@@ -45,8 +45,12 @@ cask "discord"
 cask "telegram"
 cask "google-drive"
 cask "microsoft-remote-desktop"
+cask "fig"
+cask "chatwork"
+cask "spark"
 
 echo "install app from app store"
 
 mas "xcode", id: 497799835
 mas "line", id: 539883307
+mas "Unsplash Wallpapers", id: 1284863847
