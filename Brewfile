@@ -48,6 +48,7 @@ cask "microsoft-remote-desktop"
 cask "fig"
 cask "chatwork"
 cask "spark"
+cask "charles"
 
 echo "install app from app store"
 
