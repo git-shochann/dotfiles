@@ -21,6 +21,7 @@ brew "tree"
 brew "screen"
 brew "tmux"
 brew "neovim"
+brew "grpcurl" # curlコマンドのようにターミナル上でgRPCのリクエストを送ることが出来る
 
 echo "install casks"
 
