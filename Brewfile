@@ -55,4 +55,4 @@ echo "install app from app store"
 
 mas "xcode", id: 497799835
 mas "line", id: 539883307
-mas "Unsplash Wallpapers", id: 1284863847
+mas "magnet", id: 441258766
