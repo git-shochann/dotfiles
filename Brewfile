@@ -23,6 +23,7 @@ brew "tmux"
 brew "neovim"
 brew "grpcurl" # curlコマンドのようにターミナル上でgRPCのリクエストを送ることが出来る
 brew "onefetch"
+brew "firefox"
 
 echo "install casks"
 
