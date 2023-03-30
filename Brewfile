@@ -23,8 +23,6 @@ brew "tmux"
 brew "neovim"
 brew "grpcurl" # curlコマンドのようにターミナル上でgRPCのリクエストを送ることが出来る
 brew "onefetch"
-brew "firefox"
-brew "microsoft-edge"
 
 echo "install casks"
 
@@ -50,9 +48,10 @@ cask "telegram"
 cask "google-drive"
 cask "microsoft-remote-desktop"
 cask "fig"
-cask "chatwork"
 cask "spark"
 cask "charles"
+cask "firefox"
+cask "microsoft-edge"
 
 echo "install app from app store"
 
