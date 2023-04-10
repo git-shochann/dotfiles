@@ -52,6 +52,7 @@ cask "spark"
 cask "charles"
 cask "firefox"
 cask "microsoft-edge"
+cask "ankerwork"
 
 echo "install app from app store"
 
